@@ -1,0 +1,27 @@
+body{
+  margin-top:40px;
+  background-color:#D0BDCF;
+}
+.jumbotron{
+	background-color: #D3C7CA;
+}
+
+h1{
+	font-family: Lobster, monospace;
+  background-color:#965189;
+  color:white;
+  letter-spacing: 2px;
+  padding:15px;
+  margin-bottom:40px;
+  
+}
+footer{
+  background-color:#965189;
+  padding:20px;
+  color:white;
+}
+@media only screen and (max-width: 500px) {
+    h1 {
+        font-size: 1em;
+    }
+}
